@@ -12,14 +12,14 @@ The environment is composed by two applications.
 +  ardumouse.ino running into Arduino
 +  ardumouse.py running into the PC.
 
-DEPENDENCES:
-  + Python:
+**DEPENDENCES**:
+  + **Python**:
     + python-serial
     + python-uinput
-
-  + Arduino:
+  + **Arduino**:
     + arduino
     + arduino-core
+
 ---
 
 ## SETUP:
@@ -44,7 +44,13 @@ then run:
 
 <p align="center">
   <br/><br/>
-    <img src="imgs/top.jpg" height="300">
+    <img src="imgs/top.jpg" height="400">
   <br/><br/>
     <img src="imgs/profile.jpg" height="300">
+  <br/><br/>
 </p>
+
+[YouTube Video](https://www.youtube.com/watch?v=XM1ntsB4mj8)
+
+
+[![YouTube Video](https://img.youtube.com/vi/XM1ntsB4mj8/3.jpg)](https://www.youtube.com/watch?v=XM1ntsB4mj8)
