@@ -1,4 +1,4 @@
-# ArduMouse
+# ArduMouse (ProC)
 
 **AUTHOR:** Andrea Galloni ([Twitter](https://twitter.com/andreagalloni92))
 
@@ -6,7 +6,7 @@
 
 ---
 
-This simple program emulates a mouse using Arduino Nano and Python.
+This simple program is a ProC (Proof of Concept) that emulates a mouse using Arduino Nano and Python.
 
 The environment is composed by two applications.
 +  ardumouse.ino running into Arduino
